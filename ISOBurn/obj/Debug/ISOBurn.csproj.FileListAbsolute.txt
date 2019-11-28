@@ -1,0 +1,8 @@
+C:\Users\manue\Documents\0Git\ISOBurn\ISOBurn\bin\Debug\ISOBurn.exe
+C:\Users\manue\Documents\0Git\ISOBurn\ISOBurn\bin\Debug\ISOBurn.pdb
+C:\Users\manue\Documents\0Git\ISOBurn\ISOBurn\bin\Debug\Interop.IMAPI2.dll
+C:\Users\manue\Documents\0Git\ISOBurn\ISOBurn\obj\Debug\ISOBurn.csprojAssemblyReference.cache
+C:\Users\manue\Documents\0Git\ISOBurn\ISOBurn\obj\Debug\Interop.IMAPI2.dll
+C:\Users\manue\Documents\0Git\ISOBurn\ISOBurn\obj\Debug\ISOBurn.csproj.ResolveComReference.cache
+C:\Users\manue\Documents\0Git\ISOBurn\ISOBurn\obj\Debug\ISOBurn.exe
+C:\Users\manue\Documents\0Git\ISOBurn\ISOBurn\obj\Debug\ISOBurn.pdb
